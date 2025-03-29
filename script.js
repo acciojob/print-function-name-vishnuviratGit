@@ -1,6 +1,6 @@
 //your JS code here. If required.
-function vishnu(){
+function functionName(){
 	  alert(arguments.callee.name);
 }
-vishnu();
+functionName();
 
